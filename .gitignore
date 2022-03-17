@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+# Folder
+*target/
+
+# Directory-based project format:
+.idea/
+
 # BlueJ files
 *.ctxt
 
